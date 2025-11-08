@@ -1,7 +1,7 @@
 # Landing Page Project
 
-THis here is the personal portfolio landing page assingment for Elijah Grant.
-It's prupose is to showcase my projects, unfortunately I am still very early in the game so I don't have any projects to share
+This here is the personal portfolio landing page assingment for Elijah Grant.
+It's purpose is to showcase my projects, unfortunately I am still very early in the game so I don't have any projects to share
 but to show my skills with the lesson I went with a Star Wars themed portfolio page.
 
 # How to View
